@@ -10,7 +10,7 @@ import sys
 import re
 import os
 import numpy as np
-
+# This is a comment to test GitHub commits
 if os.name == "nt":
     clear = lambda: os.system("cls")
 else:
